@@ -280,7 +280,8 @@ The repository provides a visual overview of the project through dashboard scree
 
 🎥 **Watch the project demonstration:**
 
-- [GitHub Video Demo](Project_Demo_Video/Financial_Crime_Fraud_Investigation_Dashboard_Demo.mp4)
+- [YouTube Demo](https://youtu.be/HFd2PhyPI6s) — Watch the dashboard walkthrough.
+- [GitHub Video](Project_Demo_Video/Financial_Crime_Fraud_Investigation_Dashboard_Demo.mp4) — View/download the demo directly from the repository.
 
 The demonstration video showcases the dashboards, interactive filters, analytical views and key functionalities developed as part of this project.
 
