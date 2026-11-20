@@ -276,7 +276,21 @@ Slicers and timelines were incorporated to support interactive analysis.
 
 The repository provides a visual overview of the project through dashboard screenshots and a demonstration video.
 
-The screenshots and demonstration video provide a visual overview of the dashboards, their interactive capabilities and the analytical approach used in the project.
+### Project Demo Video
+
+🎥 **Watch the project demonstration:**
+
+- [GitHub Video Demo](Project_Demo_Video/Financial_Crime_Fraud_Investigation_Dashboard_Demo.mp4)
+
+The demonstration video showcases the dashboards, interactive filters, analytical views and key functionalities developed as part of this project.
+
+### Dashboard Screenshots
+
+- [Dashboard 1 – Fraud & Transaction Intelligence](Dashboard_1_Fraud_Transaction_Intelligence/)
+- [Dashboard 2 – Investigation & Case Intelligence](Dashboard_2_Investigation_Case_Intelligence/)
+- [Technical Implementation](Technical_Implementation/)
+
+The screenshots provide a visual overview of the dashboards, their interactive capabilities and the analytical approach used in the project.
 
 The complete working Excel workbook and its supporting source files are not included in this public repository.
 
