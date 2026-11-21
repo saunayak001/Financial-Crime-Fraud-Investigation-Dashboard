@@ -278,16 +278,11 @@ The repository provides a visual overview of the project through dashboard scree
 
 ### Project Demo Video
 
-🎥 **Watch the project demonstration:**
+Watch a short video demonstrating the dashboard's interactive filters, analytical views, and investigation insights.
 
-- **YouTube Demo**
+[▶️ **Dashboard Demo on YouTube**](https://youtu.be/HFd2PhyPl6s)
 
-- Watch a short video directly on YouTube demonstrating the dashboard's interactive filters, analytical views, and investigation insights.
-
-  [▶️ Dashboard Demo](https://youtu.be/HFd2PhyPl6s)
-- [GitHub Video](Project_Demo_Video/Financial_Crime_Fraud_Investigation_Dashboard_Demo.mp4) — View/download the demo directly from the repository.
-
-The demonstration video showcases the dashboards, interactive filters, analytical views and key functionalities developed as part of this project.
+[📁 **GitHub Video**](Project_Demo_Video/Financial_Crime_Fraud_Investigation_Dashboard_Demo.mp4) — View/download the demo directly from the repository.
 
 ### Dashboard Screenshots
 
@@ -295,7 +290,7 @@ The demonstration video showcases the dashboards, interactive filters, analytica
 - [Dashboard 2 – Investigation & Case Intelligence](Dashboard_2_Investigation_Case_Intelligence/)
 - [Technical Implementation](Technical_Implementation/)
 
-The screenshots provide a visual overview of the dashboards, their interactive capabilities and the analytical approach used in the project.
+The screenshots provide a visual overview of the dashboards, their interactive capabilities, and the analytical approach used in the project.
 
 The complete working Excel workbook and its supporting source files are not included in this public repository.
 
