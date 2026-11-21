@@ -108,7 +108,7 @@ Users can explore specific payment methods, initiation channels, alert prioritie
 
 ### Dashboard Preview
 
-![Fraud & Transaction Intelligence Dashboard](Dashboard_1_Fraud_Transaction_Intelligence/01_Main_Dashboard_Overview.png)
+![Fraud & Transaction Intelligence Dashboard](Dashboard_1_Fraud_Transaction_Intelligence/01_Fraud_and_Transaction_Intelligence_Dashboard.png)
 
 ## 7. Dashboard 2 – Fraud Investigation & Case Intelligence
 
