@@ -106,6 +106,10 @@ The dashboard includes interactive slicers and filters to analyse transaction ac
 
 Users can explore specific payment methods, initiation channels, alert priorities and alert types to understand patterns within the reporting dataset.
 
+### Dashboard Preview
+
+![Fraud & Transaction Intelligence Dashboard](Dashboard_1_Fraud_Transaction_Intelligence/01_Main_Dashboard_Overview.png)
+
 ## 7. Dashboard 2 – Fraud Investigation & Case Intelligence
 
 This dashboard focuses on investigation outcomes, case management and operational analysis.
@@ -135,6 +139,10 @@ This dashboard focuses on investigation outcomes, case management and operationa
 The dashboard enables users to explore investigation cases based on status, final decision, investigation type, risk category and investigator-related dimensions.
 
 This supports a better understanding of investigation outcomes and operational workload distribution.
+
+### Dashboard Preview
+
+![Investigation & Financial Crime Intelligence Dashboard](Dashboard_2_Investigation_Case_Intelligence/13_Investigation_and_Financial_Crime_Intelligence_Overview.png)
 
 ## 8. Key Analytical Insights
 
